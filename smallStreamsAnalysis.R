@@ -6,7 +6,7 @@
 # clone the git repository, and download all data and scripts into the same directory per the readme.
 # open a terminal and cd to this directory.
 # run `make` to reproduce figures and analysis if you have GNU make installed
-# or run './smallStreamsAnalysis.r' in UNIX or just 'smallStreamsAnalysis' on Windows to reproduce figures and analysis
+# or run './smallStreamsAnalysis.R' in UNIX or just 'smallStreamsAnalysis' on Windows to reproduce figures and analysis
 
 # to run: R session option
 # clone the git repository, and download all data and scripts into the same directory per the readme.
@@ -52,7 +52,7 @@ require(docopt) # for passing arguments from command line.
 # command line usage information
 
 '
-usage:  smallStreamsAnalysis.r [options]
+usage:  smallStreamsAnalysis.R [options]
 
 options:
   --fig1_2       Generate figures 1 and 2.

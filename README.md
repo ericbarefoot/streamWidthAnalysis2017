@@ -33,7 +33,7 @@ Optionally, if users want finer grained control, and are comfortable with the co
 The command line interface for these scripts accepts the following options, which can be accessed in the command line with `./smallStreamsAnalysis.R --help`
 
 ```
-usage:  smallStreamsAnalysis.r [options]
+usage:  smallStreamsAnalysis.R [options]
 
 options:
   --fig1_2       Generate figures 1 and 2.
